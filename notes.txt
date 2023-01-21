@@ -1,0 +1,6 @@
+react-native-maps => for rendering map
+
+react-native-maps-directions => used to draw map line(directions) in map view
+
+react-native-geolocation-service => provides current location
+expo-location => provides current location for expo app
